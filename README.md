@@ -1,1 +1,1 @@
-# gamee
+Alpha version of 'Guess The Number' game.
